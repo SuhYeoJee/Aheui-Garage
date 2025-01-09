@@ -3,6 +3,8 @@
 [아희 언어의 명세](https://aheui.readthedocs.io/ko/latest/specs.html)  
 [AVIS - 잘 만든 아희 편집기 & 실행기](https://aheui.github.io/avis/)
 
+> 코드 확장자로 `.aheui` 사용
+
 - 초성: 인터프리터에 명령 지정
 - 중성: 커서 이동 지정
 - 종성: 명령 보조 인자
@@ -58,7 +60,7 @@
 - 큐: `ㅇ`
 - 통로: `ㅎ`
 
-## 예제
+## 예제 [hello_world.aheui](./hello_world.aheui)
 ```
 밤밣따빠밣밟따뿌
 빠맣파빨받밤뚜뭏
